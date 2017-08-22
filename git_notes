@@ -1,0 +1,23 @@
+# # git init = initialize repository
+
+# # git status = print status
+
+# # git diff = list out change u made
+
+# # press q to exit out
+
+
+# # git add -A = add every file
+
+
+# # git commit -m "message here"
+
+# # use git commit --amend -m "change your string" ===== use this to change ur text
+
+# # git log = list out the list of logs
+
+# sdasd
+
+# git remote
+
+# git remote add origin --link goes here---
