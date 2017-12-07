@@ -9,6 +9,7 @@
 
 # # git add -A = add every file
 
+# git status - lists out status
 
 # # git commit -m "message here"
 
@@ -16,8 +17,63 @@
 
 # # git log = list out the list of logs
 
-# sdasd
+git diff- lists out changes made
 
 # git remote
 
 # git remote add origin --link goes here---
+
+
+
+git branches changing notes
+
+# git reset --hard (SHA goes here, it's the long code whenever you do git log)
+
+# git checkout -b (new name here) --- changes master to the new name u provide
+
+git checkout master = changes back to master branch
+
+git merge (branch name)
+
+
+
+
+
+3. git add -A
+4. git commit -m "commit message"
+5.git push
+
+ez way
+create a new repo on github
+copy the https link
+cd /workspace
+git clone git_repo_url
+(move files into that folder/repo)
+git add -A
+git commit -m "mesesage"
+git push
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pry notes
+
+#put require 'pry' at the top of your workpad
+
+then go into the gem file in that folder and add gem 'pry'
+
+then go into terminal and do bundle install
+
+
+
+when ur in pry, do load "file name" for example "lib.mastermind.rb"
